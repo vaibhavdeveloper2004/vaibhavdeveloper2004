@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @vaibhavdeveloper2004
 - 👀 I’m interested in Web dev and making projects
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning React
 - ⚡ Fun fact: Love watching movies
 
 <!---
